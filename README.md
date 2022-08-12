@@ -1,1 +1,1 @@
-File UART.v and tb_UART.v don't run
+File UART.v or tb_UART.v don't run
